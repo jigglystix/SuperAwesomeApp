@@ -1,0 +1,20 @@
+﻿@model SuperAwesomeApp.Models.SuperAwesomeClass
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/views/shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<br/>
+Please Enter a Number
+<br/>
+@using(Html.BeginForm("Results", "Home") )
+{
+@Html.EditorFor(x => x.Input)
+
+    <input type="submit" value="Submit"/>
+    <br/>
+
+}
