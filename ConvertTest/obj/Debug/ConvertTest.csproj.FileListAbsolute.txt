@@ -1,0 +1,16 @@
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\MeasurementConvert.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\nunit.framework.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\MeasurementConvert.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.csprojResolveAssemblyReference.cache
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\Enum.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\mscorlib.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\Enum.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\normidna.nlp
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\normnfc.nlp
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\normnfd.nlp
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\normnfkc.nlp
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\normnfkd.nlp

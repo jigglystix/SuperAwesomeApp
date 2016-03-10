@@ -1,0 +1,7 @@
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.csprojResolveAssemblyReference.cache
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.pdb

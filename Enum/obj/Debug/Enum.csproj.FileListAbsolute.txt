@@ -1,0 +1,5 @@
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\bin\Debug\Enum.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\bin\Debug\Enum.pdb
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\Enum.dll
+C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\Enum.pdb
