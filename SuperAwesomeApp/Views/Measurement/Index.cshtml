@@ -1,0 +1,30 @@
+﻿@model SuperAwesomeApp.Models.MeasurementConversionClass
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>Enter your number and units.</p>
+@using (Html.BeginForm("Index", "Measurement", FormMethod.Get))
+{
+    var selectList = new SelectList(new List<Object>
+    {
+        new {value = 0, text = "Inches"},
+        new {value = 1, text = "Feet"},
+        new {value = 2, text = "Yards"}
+    }, "value", "text");
+    
+    @Html.EditorFor(x => x.Input)
+    @Html.DropDownListFor(x => x.InputUom, selectList)
+    <br/>
+    <p>What are the units you want to convert to?</p>
+    @Html.DropDownListFor(x => x.ResultUom, selectList)
+    <br/>
+    <br/>
+    <input type="submit" value="Submit" />
+    <br/>
+    @Html.DisplayFor(x => x.Result)
+    
+}

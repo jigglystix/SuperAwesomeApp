@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using NumberName;
+using RomanNumerals;
 
 namespace SuperAwesomeApp.Controllers
 {
@@ -17,6 +18,13 @@ namespace SuperAwesomeApp.Controllers
         {
             if (anything.Input != 0)
                 anything.Result = NumberName.NumberName.GetNumberName(anything.Input);
+            return View(anything);
+        }
+
+        public ActionResult RomanNumeral(SuperAwesomeClass anything)
+        {
+            if (anything.Input != 0)
+                anything.RomanNumeral = RomanNumeralConverter.Convert(anything.Input);
             return View(anything);
         }
 

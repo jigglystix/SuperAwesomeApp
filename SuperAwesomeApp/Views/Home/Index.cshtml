@@ -8,13 +8,22 @@
 <h2>Index</h2>
 
 <br/>
-Please Enter a Number
+    Please enter a number to convert to word.
 <br/>
 @using(Html.BeginForm("Results", "Home") )
 {
-@Html.EditorFor(x => x.Input)
+    @Html.EditorFor(x => x.Input)
 
     <input type="submit" value="Submit"/>
     <br/>
 
+}
+<br/>
+    Please enter inches to convert to feet.
+<br/>
+@using (Html.BeginForm("RomanNumeral", "Home"))
+{
+    @Html.EditorFor(x => x.Input)
+    <input type="submit" value="Submit"/>
+    <br/>
 }

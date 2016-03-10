@@ -8,6 +8,7 @@ namespace SuperAwesomeApp.Models
     public class SuperAwesomeClass
     {
         public string Result { get; set; }
+        public string RomanNumeral { get; set; }
         public int Input { get; set; }
 
     }
