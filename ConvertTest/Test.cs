@@ -9,7 +9,7 @@ namespace ConvertTest
         [TestCase(1.083, 13)]
         public void InchesToFeet(double expectedResult, int inches)
         {
-            Assert.AreEqual(expectedResult, Converter.ConvertInchesToFeet(inches));
+            Assert.AreEqual(expectedResult, Converter.MeasurementConvertInputOutput(inches,AwesomeEnumerations.EnumSeparation.UnitsOfMeasure.Inches, AwesomeEnumerations.EnumSeparation.UnitsOfMeasure.Feet));
            
         }
     }

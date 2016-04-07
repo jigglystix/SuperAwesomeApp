@@ -3,3 +3,6 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\bin
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\AwesomeEnumerations.csprojResolveAssemblyReference.cache
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\Enum.dll
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Enum\obj\Debug\Enum.pdb
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\Enum\bin\Debug\Enum.dll.config
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\Enum\bin\Debug\EntityFramework.dll
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\Enum\bin\Debug\EntityFramework.xml

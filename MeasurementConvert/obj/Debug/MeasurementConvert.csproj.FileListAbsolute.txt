@@ -5,3 +5,6 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Measurem
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.pdb
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.dll
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.pdb
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.dll.config
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.dll
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.xml

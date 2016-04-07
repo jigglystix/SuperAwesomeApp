@@ -39,3 +39,5 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwe
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\MeasurementConvert.pdb
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Enum.dll
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Enum.pdb
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.dll
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.xml
