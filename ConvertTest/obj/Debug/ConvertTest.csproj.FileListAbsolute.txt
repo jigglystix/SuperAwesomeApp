@@ -10,3 +10,17 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\ConvertT
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.dll.config
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\EntityFramework.dll
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\EntityFramework.xml
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.dll.config
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\ConvertTest.pdb
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\EntityFramework.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\Enum.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\MeasurementConvert.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\nunit.framework.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\Enum.pdb
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\MeasurementConvert.pdb
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\EntityFramework.xml
+C:\Projects\SuperAwesomeApp\ConvertTest\bin\Debug\nunit.framework.xml
+C:\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.csprojResolveAssemblyReference.cache
+C:\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.dll
+C:\Projects\SuperAwesomeApp\ConvertTest\obj\Debug\ConvertTest.pdb

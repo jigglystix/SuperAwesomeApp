@@ -41,3 +41,45 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwe
 C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Enum.pdb
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.dll
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\SuperAwesomeApp.dll.config
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\SuperAwesomeApp.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\SuperAwesomeApp.pdb
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Antlr3.Runtime.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Enum.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\MeasurementConvert.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Newtonsoft.Json.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Net.Http.Formatting.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Http.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Http.WebHost.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Mvc.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Optimization.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Providers.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Razor.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.Razor.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\WebGrease.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\nunit.framework.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Enum.pdb
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\MeasurementConvert.pdb
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\EntityFramework.SqlServer.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\Newtonsoft.Json.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Net.Http.Formatting.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Http.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Http.WebHost.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Mvc.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.Razor.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\System.Web.WebPages.Razor.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\bin\nunit.framework.xml
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.csprojResolveAssemblyReference.cache
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.Migrations.AddUserProfile.resources
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.csproj.GenerateResource.Cache
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.dll
+C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.pdb

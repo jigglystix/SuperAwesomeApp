@@ -8,3 +8,13 @@ C:\Users\jsimpson\documents\visual studio 2013\Projects\SuperAwesomeApp\Measurem
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.dll.config
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.dll
 C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.xml
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.dll.config
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.dll
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\MeasurementConvert.pdb
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.dll
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.dll
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\Enum.pdb
+C:\Projects\SuperAwesomeApp\MeasurementConvert\bin\Debug\EntityFramework.xml
+C:\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.csprojResolveAssemblyReference.cache
+C:\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.dll
+C:\Projects\SuperAwesomeApp\MeasurementConvert\obj\Debug\MeasurementConvert.pdb
