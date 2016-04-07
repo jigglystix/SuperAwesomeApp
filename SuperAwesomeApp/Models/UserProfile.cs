@@ -17,6 +17,10 @@ namespace SuperAwesomeApp.Models
 
         [Required]
         [MaxLength(50)]
+        public string MiddleName { get; set; }
+
+        [Required]
+        [MaxLength(50)]
         public string LastName { get; set; }
     }
 }

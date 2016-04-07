@@ -26,6 +26,7 @@
     </FileUpgradeFlags>
     <OldToolsVersion>12.0</OldToolsVersion>
     <UpgradeBackupLocation />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -150,6 +151,10 @@
     <Compile Include="Migrations\201603241656362_AddUserProfile.Designer.cs">
       <DependentUpon>201603241656362_AddUserProfile.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201604071650267_AddMiddleNameToUserProfile.cs" />
+    <Compile Include="Migrations\201604071650267_AddMiddleNameToUserProfile.Designer.cs">
+      <DependentUpon>201604071650267_AddMiddleNameToUserProfile.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\MeasurementConversionClass.cs" />
     <Compile Include="Models\SAContext.cs" />
@@ -266,6 +271,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201603241656362_AddUserProfile.resx">
       <DependentUpon>201603241656362_AddUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604071650267_AddMiddleNameToUserProfile.resx">
+      <DependentUpon>201604071650267_AddMiddleNameToUserProfile.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
