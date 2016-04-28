@@ -3,7 +3,7 @@ namespace SuperAwesomeApp.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class AddMiddleNameToUserProfile : DbMigration
+    public partial class NotWTF_AddMiddleName : DbMigration
     {
         public override void Up()
         {

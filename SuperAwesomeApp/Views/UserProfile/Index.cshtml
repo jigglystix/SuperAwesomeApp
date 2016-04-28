@@ -1,0 +1,56 @@
+﻿@model SuperAwesomeApp.Models.UserProfileRequest
+
+@{
+    ViewBag.Title = "UserProfile";
+}
+
+<h2>UserProfile</h2>
+
+@using (Html.BeginForm("Results","UserProfile")) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>UserProfile</legend>
+
+        <div class="editor-label">
+            @Html.DisplayFor(model => model.ErrorMessage)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.UserProfile.FirstName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.UserProfile.FirstName)
+            @Html.ValidationMessageFor(model => model.UserProfile.FirstName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.UserProfile.MiddleName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.UserProfile.MiddleName)
+            @Html.ValidationMessageFor(model => model.UserProfile.MiddleName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.UserProfile.LastName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.UserProfile.LastName)
+            @Html.ValidationMessageFor(model => model.UserProfile.LastName)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

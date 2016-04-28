@@ -83,3 +83,6 @@ C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.Migrations
 C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.csproj.GenerateResource.Cache
 C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.dll
 C:\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.pdb
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.Migrations.AddUserProfile.resources
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.csproj.GenerateResource.Cache
+C:\Users\jsimpson\Documents\Visual Studio 2013\Projects\SuperAwesomeApp\SuperAwesomeApp\obj\Debug\SuperAwesomeApp.Migrations.NotWTF_AddMiddleName.resources

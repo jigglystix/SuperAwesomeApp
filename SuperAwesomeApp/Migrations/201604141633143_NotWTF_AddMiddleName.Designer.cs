@@ -7,13 +7,13 @@ namespace SuperAwesomeApp.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class AddMiddleNameToUserProfile : IMigrationMetadata
+    public sealed partial class NotWTF_AddMiddleName : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AddMiddleNameToUserProfile));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(NotWTF_AddMiddleName));
         
         string IMigrationMetadata.Id
         {
-            get { return "201604071650267_AddMiddleNameToUserProfile"; }
+            get { return "201604141633143_NotWTF_AddMiddleName"; }
         }
         
         string IMigrationMetadata.Source
